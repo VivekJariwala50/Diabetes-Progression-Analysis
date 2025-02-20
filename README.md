@@ -13,10 +13,10 @@ Dataset Link: [Stanford Diabetes Dataset](https://hastie.su.domains/Papers/LARS/
 
 Insights
 --------
--> BMI is the most important feature influencing diabetes progression.
--> S5 and Blood Pressure (BP) also show a significant relationship with the target variable.
--> SEX has a minimal impact on diabetes progression, with a correlation of 0.04.
--> S3 has a negative correlation (-0.395), indicating that higher values of S3 are associated with lower diabetes risk.
+- **BMI** is the most important feature influencing diabetes progression.
+- **S5** and **Blood Pressure (BP)** also show a significant relationship with the target variable.
+- **SEX** has a minimal impact on diabetes progression, with a correlation of 0.04.
+- **S3** has a negative correlation (-0.395), indicating that higher values of S3 are associated with lower diabetes risk.
 
 Dashboard
 The insights from the EDA are visualized through an interactive Tableau dashboard, providing an easy-to-understand view of the diabetes progression data.
